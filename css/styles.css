@@ -51,17 +51,18 @@ header{
     position: relative;
     
 }
-.navbar a{
+.navbar a {
     color: var(--header-color);
     font-size: var(--p-font);
     font-weight: 500;
     padding: 10px 22px;
     border-radius: 4px;
-    transition: ease .40s;
+    transition: background 0.3s ease, color 0.3s ease; /* Smooth transition for background and text color */
 }
-.navbar a:hover{
-    background: var(--bg-color);
-    color: var(--text-color);
+
+.navbar a:hover {
+    background: #6e54fa; /* Purple background on hover */
+    color: white; /* White text on hover */
     box-shadow: 5px 10px 30px rgb(85 85 85 / 20%);
     border-radius: 4px;
 }
