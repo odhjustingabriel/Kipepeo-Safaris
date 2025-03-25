@@ -34,6 +34,8 @@ Static website for **Kipepeo Safaris**, a tour operations company specializing i
    open ./html/index.html  # macOS
    start ./html/index.html # Windows
 
+   (if images do not load open with live server from your choice IDE)
+
 
 ## 📂 Project Structure
  1. File structure
