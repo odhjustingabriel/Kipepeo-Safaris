@@ -38,7 +38,8 @@ Static website for **Kipepeo Safaris**, a tour operations company specializing i
 
 
 ## 📂 Project Structure
- . ```bash
+ 1. File structure
+ ```bash
 
  kipepeo-safaris/
  ├── css/
