@@ -59,9 +59,9 @@ header{
     border-radius: 4px;
     transition: ease .40s;
 }
-.navbar a:hover{
-    background: var(--bg-color);
-    color: var(--text-color);
+.navbar a:hover {
+    background: var(--main-color);
+    color: var(--bg-color);
     box-shadow: 5px 10px 30px rgb(85 85 85 / 20%);
     border-radius: 4px;
 }
