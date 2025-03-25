@@ -8,7 +8,7 @@ Static website for **Kipepeo Safaris**, a tour operations company specializing i
 
 ## 🛠️ Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
-- **Styling**: Flexbox, Grid, Responsive Design
+- **Styling**: Modular CSS
 - **Hosting**: GitHub Pages
 - **Tools**: Git, VS Code
 
@@ -19,8 +19,6 @@ Static website for **Kipepeo Safaris**, a tour operations company specializing i
    - Client-side validation with success alerts.
 3. **Responsive Design**  
    - Mobile-friendly navigation and image galleries.
-4. **Performance Optimized**  
-   - Fast-loading with compressed assets.
 
 ## 🖥️ Local Setup
 1. Clone the repo:
