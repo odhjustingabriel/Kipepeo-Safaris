@@ -56,7 +56,7 @@ Static website for **Kipepeo Safaris**, a tour operations company specializing i
    │   ├── maasai-mara.jpg  # Destination images
    │   └── ...              # Other assets
    └── README.md            # You're here!
-
+```
 
 ## ✉️ Contact
 
