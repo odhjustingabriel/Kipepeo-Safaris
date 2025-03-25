@@ -44,7 +44,7 @@ Static website for **Kipepeo Safaris**, a tour operations company specializing i
    kipepeo-safaris/
    ├── css/
    │   ├── styles.css       # Main stylesheet
-   │   └── styles2.css      # Secondary styles (e.g., animations)
+   │   └── styles2.css      # Secondary styles
    ├── html/
    │   ├── index.html       # Homepage
    │   ├── destinations.html # All safari locations
