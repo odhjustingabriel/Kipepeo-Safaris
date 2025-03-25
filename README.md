@@ -3,7 +3,7 @@
 *A Premier Kenyan Safari Experience*
 
 ## 🌍 Overview
-Static frontend for **Kipepeo Safaris**, a tour operations company specializing in bespoke Kenyan safaris. Features destination showcases, booking inquiries, and seamless user experience.
+Static website for **Kipepeo Safaris**, a tour operations company specializing in bespoke Kenyan safaris. Features destination showcases, booking inquiries, and seamless user experience.
 
 
 ## 🛠️ Tech Stack
@@ -37,17 +37,6 @@ Static frontend for **Kipepeo Safaris**, a tour operations company specializing 
    (if images do not load open with live server from your choice IDE)
 
 
-## ✉️ Contact
-
-For any inquiries or feedback, please reach out:
-
-Email: gabrieljustinodh@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/justin-gabriel-4011b434b/
-
-## Kipepeo Safaris – Where Adventure Meets the Wild! 🦁🌅
-
-
 ## 📂 Project Structure
  1. File structure
    ```bash
@@ -69,9 +58,12 @@ LinkedIn: https://www.linkedin.com/in/justin-gabriel-4011b434b/
    └── README.md            # You're here!
 
 
+## ✉️ Contact
 
+For any inquiries or feedback, please reach out:
 
+Email: gabrieljustinodh@gmail.com
 
+LinkedIn: https://www.linkedin.com/in/justin-gabriel-4011b434b/
 
-
-
+## Kipepeo Safaris – Where Adventure Meets the Wild! 🦁🌅
