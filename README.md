@@ -38,22 +38,24 @@ Static website for **Kipepeo Safaris**, a tour operations company specializing i
 
 
 ## 📂 Project Structure
+ . ```bash
 
-kipepeo-safaris/
-├── css/
-│   ├── styles.css       # Main stylesheet
-│   └── styles2.css      # Secondary styles (e.g., animations)
-├── html/
-│   ├── index.html       # Homepage
-│   ├── destinations.html # All safari locations
-│   └── contactus.html   # Booking inquiry form
-├── js/
-│   └── script.js        # Form validation and interactivity
-├── img/
-│   ├── logo.png         # Company logo
-│   ├── maasai-mara.jpg  # Destination images
-│   └── ...              # Other assets
-└── README.md            # You're here!
+ kipepeo-safaris/
+ ├── css/
+ │   ├── styles.css       # Main stylesheet
+ │   └── styles2.css      # Secondary styles (e.g., animations)
+ ├── html/
+ │   ├── index.html       # Homepage
+ │   ├── destinations.html # All safari locations
+ │   └── contactus.html   # Booking inquiry form
+ ├── js/
+ │   └── script.js        # Form validation and interactivity
+ ├── img/
+ │   ├── logo.png         # Company logo
+ │   ├── maasai-mara.jpg  # Destination images
+ │   └── ...              # Other assets
+ └── README.md            # You're here!
+
 
 ## ✉️ Contact
 
